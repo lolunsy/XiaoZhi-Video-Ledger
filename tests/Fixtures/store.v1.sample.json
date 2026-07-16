@@ -1,0 +1,50 @@
+{
+  "settings": {
+    "rootPath": "D:\\示例素材",
+    "ffmpegPath": "",
+    "currentProjectId": "sample-project-b",
+    "windowWidth": 1500,
+    "windowHeight": 900,
+    "watchEnabled": true,
+    "cardScale": 1.2
+  },
+  "projects": [
+    {
+      "id": "sample-project-a",
+      "name": "品牌短片 · 第一集",
+      "rootPath": "D:\\示例素材\\品牌短片",
+      "selectedFolder": "D:\\示例素材\\品牌短片\\城市空镜",
+      "createdAt": "2026-07-10T09:00:00+08:00"
+    },
+    {
+      "id": "sample-project-b",
+      "name": "探店视频 · 夏季",
+      "rootPath": "D:\\clipLedger\\XiaoZhiLedger.CSharp\\tests\\Fixtures\\Media",
+      "selectedFolder": "D:\\clipLedger\\XiaoZhiLedger.CSharp\\tests\\Fixtures\\Media\\人物",
+      "createdAt": "2026-07-12T09:00:00+08:00"
+    },
+    {
+      "id": "sample-project-c",
+      "name": "产品演示",
+      "rootPath": "",
+      "selectedFolder": "",
+      "createdAt": "2026-07-15T09:00:00+08:00"
+    }
+  ],
+  "records": {
+    "sample-fingerprint-a": {
+      "path": "D:\\示例素材\\品牌短片\\城市空镜\\street.mp4",
+      "name": "street.mp4",
+      "size": 1024,
+      "note": "",
+      "projects": {}
+    },
+    "sample-fingerprint-b": {
+      "path": "\\\\NAS-DEMO\\video\\探店夏季\\人物\\person.mov",
+      "name": "person.mov",
+      "size": 2048,
+      "note": "开场备选",
+      "projects": {}
+    }
+  }
+}

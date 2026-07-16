@@ -1,0 +1,6 @@
+{
+  "settings": {
+    "currentProjectId": "broken"
+  },
+  "projects": [ this is intentionally invalid JSON
+}

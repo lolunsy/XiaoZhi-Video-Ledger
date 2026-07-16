@@ -1,4 +1,25 @@
+# Build output
+**/bin/
+**/obj/
+publish/
+
+# IDE and user state
+.vs/
+.idea/
+*.user
+*.suo
+
+# Local diagnostics and captures
+*.log
+docs/*.png
+tmp/
+
+# Release assets are attached through GitHub Releases
 *.zip
 *.exe
 *.dll
 *.pdb
+
+# OS files
+Thumbs.db
+.DS_Store
