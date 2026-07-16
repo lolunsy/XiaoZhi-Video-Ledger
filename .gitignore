@@ -12,6 +12,7 @@ publish/
 # Local diagnostics and captures
 *.log
 docs/*.png
+!docs/app-preview.png
 tmp/
 
 # Release assets are attached through GitHub Releases
