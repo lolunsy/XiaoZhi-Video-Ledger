@@ -4,9 +4,11 @@
 
 ## 当前版本
 
-`v0.1.0 正式版`
+`v0.1.1 正式版`
 
 请前往本仓库的 [Releases](https://github.com/lolunsy/XiaoZhi-Video-Ledger/releases) 页面下载 Windows x64 发布包。解压后运行 `小智剪辑分类账.exe`，无需安装。
+
+`v0.1.1` 已将界面图标改为程序内置矢量图形，兼容 Windows 10 与 Windows 11，不再依赖系统是否安装 Win11 图标字体。
 
 ## 主要能力
 
